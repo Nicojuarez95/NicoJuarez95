@@ -1,4 +1,4 @@
-**Hola! 👋, Soy Nicolás Juárez 😀**
+**Hola! 👋, Soy Nicolás Juárez! Desarrollador Full Stack MERN 😀**
 
 **Acerca de mi**
 
