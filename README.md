@@ -6,6 +6,7 @@ Acerca de mi
 
 🌱 Cuento con mas de 700hs horas de experiencia en el desarrollo de aplicaciones Web y Mobile
 
+
 Lenguajes y tecnologias que utilizo
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
