@@ -1,13 +1,13 @@
-Hola! 👋, Soy Nicolás Juárez 😀
+**Hola! 👋, Soy Nicolás Juárez 😀
 
-Acerca de mi
+**Acerca de mi
 
 👀 Mi experiencia me ha permitido desarrollar habilidades en todas las etapas del ciclo de desarrollo. Me apasiona el aprendizaje constante y estar al día con las últimas tecnológicas, siempre me esfuerzo para escribir código limpio y eficiente.
 
 🌱 Cuento con mas de 700hs horas de experiencia en el desarrollo de aplicaciones Web y Mobile
 
 
-Lenguajes y tecnologias que utilizo
+**Lenguajes y tecnologias que utilizo
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
