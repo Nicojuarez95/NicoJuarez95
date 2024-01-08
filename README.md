@@ -1,4 +1,4 @@
-**Hola! 👋, Soy Nicolás Juárez! Desarrollador Full Stack MERN 😀**
+**Hola! 👋, Soy Nicolás Juárez! Técnico superior en programación y Full Stack MERN 😀**
 
 **Acerca de mi**
 
