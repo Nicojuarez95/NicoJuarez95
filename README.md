@@ -4,7 +4,7 @@
 
 👀 Mi experiencia me ha permitido desarrollar habilidades en todas las etapas del ciclo de desarrollo. Me apasiona el aprendizaje constante y estar al día con las últimas tecnológicas, siempre me esfuerzo para escribir código limpio y eficiente.
 
-🌱 Cuento con mas de 1000hs horas de experiencia en el desarrollo de aplicaciones Web y Mobile
+🌱 Cuento con mas de 2000hs horas de experiencia en el desarrollo de aplicaciones Web y Mobile
 
 **Portafolio**
 
